@@ -36,6 +36,12 @@ h3:before{
     height: 5px; 
     background:white;
     left: 0;
-    bottom: 20px; 
+    bottom: 65px; 
      position: absolute; 
+}
+.img{
+    border-radius: 50%;
+}
+.row{
+    background-color: rgb(18, 18, 44);
 }
