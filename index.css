@@ -74,4 +74,16 @@ h2:after{
     display: flex;
     justify-content: space-between;
     text-align: center;
+    color:white;
+}
+.interests{
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    color: white;
+}
+h4{
+    color:rgb(121, 87, 87);
+    font-size: 20px;
+    font-weight: bold;
 }
