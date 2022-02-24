@@ -12,12 +12,12 @@
     border-radius: 50%;
 }
 .para{
-    color: white;
+    color: gray;
     font-size: 20px;
     font-weight: bold;
 }
 .para1{
-    color:white;
+    color:rgb(197, 90, 90);
     font-size: 16px;
     font-weight: bold;
 }
@@ -35,11 +35,11 @@ h3{
 h3:before{
     content: "";
     display: block;
-    width: 80px;
-    height: 5px; 
+    width: 70px;
+    height: 3px; 
     background:white;
     left: 0;
-    bottom: 5px; 
+    bottom: 85px; 
      position: absolute; 
 }
 .img{
@@ -47,6 +47,7 @@ h3:before{
 }
 .row{
     background-color: rgb(18, 18, 44);
+    
 }
 h2{
     color: white;
@@ -63,4 +64,14 @@ h2:after{
     top: 760px; 
      position: absolute; 
      
+}
+.para2{
+    color: white;
+    font-size: 16px;
+    font-family:moui-serif ;
+}
+.contacts{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
 }
