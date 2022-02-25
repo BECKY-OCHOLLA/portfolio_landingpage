@@ -48,7 +48,7 @@ h3:before{
 }
 .row{
     background-color: rgb(18, 18, 44);
-    height: px;
+    padding-bottom: 50px;
     
 }
 h2{
@@ -93,7 +93,6 @@ h4{
 #container{
     background-color: rgb(11, 11, 73);
     height: 500;
-}
-.services{
-    align-items: center;
+    text-align: center;
+    padding-top: 50px;
 }
