@@ -85,7 +85,7 @@ h2:after{
     color: white;
 }
 h4{
-    color:rgb(121, 87, 87);
+    color:rgb(150, 38, 38);
     font-size: 20px;
     font-weight: bold;
 }
@@ -96,3 +96,36 @@ h4{
     text-align: center;
     padding-top: 50px;
 }
+.col-sm{
+    color: gray;
+}
+h5{
+    color: white;
+}
+h1{
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:moui-serif ;
+}
+h1:before{
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px; 
+    background:white;
+    left: 300;
+    bottom: px; 
+     position: relative; 
+}
+h1:after{
+    content: "";
+    display: block;
+    width: 70px;
+    height: 5px; 
+    background:brown;
+    right: 50;
+    top:1400px; 
+     position: absolute; 
+     text-align: center;
+}    
